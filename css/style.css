@@ -1,0 +1,23 @@
+body{
+  font-family: 'Lato', sans-serif;
+  color:#2d3c49;
+  font-weight: 300;
+}
+
+.udacity-logo{
+  height: 100px;
+  margin-top: 20px;
+}
+
+.title-logo{
+  font-weight: 100;
+  font-size: 60px;
+}
+
+.cover-image{
+  margin: 20px 0 20px;
+}
+
+.text-sub{
+  color: #7d97ad;
+}
